@@ -4,6 +4,6 @@
 
 |---------+------------------------------------------|
 | source  | git:https://gitlab.com/Harag/cl-getx.git |
-| commit  | c85cb8f                                  |
+| commit  | 50e9bf3                                  |
 | systems | cl-getx                                  |
 |---------+------------------------------------------|
